@@ -1,6 +1,7 @@
 # JavaScript 練習
 
-1.BMI計算機
+####BMI計算機
+展示影片https://imgur.com/ZGZXvi6
 <br>
 2.TODO list
 <br>
