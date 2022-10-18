@@ -1,6 +1,5 @@
 # JavaScript 練習
 
-### 練習大綱與圖示
 1.BMI計算機
 <br>
 2.TODO list
