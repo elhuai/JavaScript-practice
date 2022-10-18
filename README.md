@@ -1,14 +1,16 @@
-# 五倍學院線上課程「JavaScript 入門」練習範例檔案
+# JavaScript 練習
 
-課程代碼：JS101
-完整課程，請洽 https://base.5xcamp.us
+### 功能大綱
+1.BMI計算機
+<br>
 
-## 實作練習
-
-- [簡易計數器](https://demo.5xcamp.us/js101/simple-counter/)
-- [BMI 計算機](https://demo.5xcamp.us/js101/bmi-calculator/)
-- [TODO App](https://demo.5xcamp.us/js101/todo/)
-- [YouBike 即時資訊](https://demo.5xcamp.us/js101/youbike/)
-- [圖片輪播](https://demo.5xcamp.us/js101/carousel/)
-- [倒數計時器](https://demo.5xcamp.us/js101/countdown-timer/)
-- [計算機](https://demo.5xcamp.us/js101/calculator/)
+2.TODO list
+<br>
+3.計算機
+<br>
+4.YouBike 站牌即時資訊
+<br>
+5.兩分鐘倒數計時器
+<br>
+6.圖片輪播
+<br>
