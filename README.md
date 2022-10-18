@@ -2,6 +2,7 @@
 
 ### 練習大綱與圖示
 1.BMI計算機
+![image]https://imgur.com/ZGZXvi6
 <br>
 2.TODO list
 <br>
